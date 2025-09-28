@@ -1,0 +1,19 @@
+{
+    "paks": [
+        "rocket_r1443.png",
+        "assets1_r4662.png"
+    ],
+    "pak_sizes": {
+        "rocket_r1443.png": 4129789,
+        "assets1_r4662.png": 5029942
+    },
+    "preload_paks": [
+        "assets1_r4662.png"
+    ],
+    "map_paks": {
+        "rocket": "rocket_r1443.png"
+    },
+    "map_hashes": {
+        "rocket": "E3136910"
+    }
+}
